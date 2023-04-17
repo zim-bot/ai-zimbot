@@ -1,0 +1,36 @@
+{
+   "name": "zim-bot",
+   "version": "5.0.1",
+   "description": "WhatsApp Bot (Base)",
+   "main": "index.js",
+   "scripts": {
+      "start": "node ."
+   },
+   "engines": {
+      "node": "14",
+      "npm": "8.x"
+   },
+   "author": "Drips Blennie",
+   "license": "ISC",
+   "dependencies": {
+      "@adiwajshing/keyed-db": "^0.2.4",
+      "@colors/colors": "^1.5.0",
+      "baileys": "^6.0.8",
+      "blennie-drips": "^5.0.0",
+      "canvas": "2.9.0",
+      "canvacord": "5.4.8",
+      "cfonts": "3.1.1",
+      "drips-memes": "^6.0.4",
+      "express": "^4.18.2",
+      "network-speed": "^2.1.1",
+      "node-cron": "^3.0.0",
+      "nodemailer": "^6.9.0",
+      "openai": "^3.1.0",
+      "os": "^0.1.2",
+      "qrcode": "^1.5.0",
+      "speedtest-net": "1.6.2",
+      "spinnies": "^0.5.1",
+      "translate-google-api": "1.0.4",
+      "yt-search": "^2.10.3"
+   }
+}
