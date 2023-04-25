@@ -40,7 +40,7 @@ A simple WhatsApp bot with cool features
 > 
 
 ## DONT FORGET TO GIVE A STAR🌟 AND FORK
-
+[![Deploy](https://www.svgrepo.com/show/354914/deploy.svg)](https://boxmineworld.com/)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/ai-zimbot)
 
 
