@@ -13,9 +13,9 @@
    "author": "Drips Blennie",
    "license": "ISC",
    "dependencies": {
+      "@adiwajshing/baileys": "npm:baileys",
       "@adiwajshing/keyed-db": "^0.2.4",
       "@colors/colors": "^1.5.0",
-      "baileys": "^6.0.8",
       "blennie-drips": "^5.0.0",
       "canvas": "2.9.0",
       "canvacord": "5.4.8",
